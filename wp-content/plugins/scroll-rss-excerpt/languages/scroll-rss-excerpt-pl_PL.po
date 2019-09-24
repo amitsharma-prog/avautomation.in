@@ -1,0 +1,83 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Scroll rss excerpt\n"
+"POT-Creation-Date: 2019-08-09 00:31+0800\n"
+"PO-Revision-Date: 2019-08-09 00:31+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com\n"
+"Language: pl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../scroll-rss-excerpt.php:51 ../scroll-rss-excerpt.php:416
+#: ../scroll-rss-excerpt.php:417 ../scroll-rss-excerpt.php:504
+#: ../scroll-rss-excerpt.php:509
+msgid "Scroll rss excerpt"
+msgstr "Fragment rss przewiń"
+
+#: ../scroll-rss-excerpt.php:145
+msgid "Details successfully updated."
+msgstr "Szczegóły pomyślnie zaktualizowane."
+
+#: ../scroll-rss-excerpt.php:154
+msgid "Setting 1"
+msgstr "Ustawienia"
+
+#: ../scroll-rss-excerpt.php:157 ../scroll-rss-excerpt.php:176
+#: ../scroll-rss-excerpt.php:195 ../scroll-rss-excerpt.php:214
+msgid "RSS Link"
+msgstr "RSS Link"
+
+#: ../scroll-rss-excerpt.php:163 ../scroll-rss-excerpt.php:182
+#: ../scroll-rss-excerpt.php:201 ../scroll-rss-excerpt.php:220
+msgid "Each Record Height"
+msgstr "Każdy rekord Wysokość"
+
+#: ../scroll-rss-excerpt.php:164 ../scroll-rss-excerpt.php:183
+#: ../scroll-rss-excerpt.php:202 ../scroll-rss-excerpt.php:221
+msgid "Display Records #"
+msgstr "Wyświetl rekordy #"
+
+#: ../scroll-rss-excerpt.php:165 ../scroll-rss-excerpt.php:184
+#: ../scroll-rss-excerpt.php:203 ../scroll-rss-excerpt.php:222
+msgid "Text Length"
+msgstr "Długość tekstu"
+
+#: ../scroll-rss-excerpt.php:173
+msgid "Setting 2"
+msgstr "Ustawienie 2"
+
+#: ../scroll-rss-excerpt.php:192
+msgid "Setting 3"
+msgstr "Ustawienie 3"
+
+#: ../scroll-rss-excerpt.php:211
+msgid "Setting 4"
+msgstr "Ustawienie 4"
+
+#: ../scroll-rss-excerpt.php:235
+msgid "Plugin Configuration"
+msgstr "Konfiguracja wtyczki"
+
+#: ../scroll-rss-excerpt.php:237
+msgid ""
+"Option 1. Use plugin short code to add this plugin into posts and pages."
+msgstr ""
+"Opcja 1. Użyj wtyczki krótkiego kodu, aby dodać ten plugin do postów i stron."
+
+#: ../scroll-rss-excerpt.php:238
+msgid "Option 2. Drag and drop the widget."
+msgstr "Przeciągnij i upuść widżet (Wyświetlenie całej strony)"
+
+#: ../scroll-rss-excerpt.php:240
+msgid "Check official website for more information"
+msgstr "Sprawdzić oficjalną stronę internetową, aby uzyskać więcej informacji"
+
+#: ../scroll-rss-excerpt.php:241
+msgid "Click here"
+msgstr "Kliknij tutaj"
